@@ -1,0 +1,15 @@
+com/mypoc/rest/MyCustomConfig.class
+com/mypoc/rest/MyEndpointConfiguration.class
+com/mypoc/rest/ClientCreatedEvent.class
+com/mypoc/rest/MyApp.class
+com/mypoc/rest/MyCustomConfig$Providerconfig.class
+com/mypoc/rest/MyRestHandler.class
+com/mypoc/rest/MyConfig.class
+com/mypoc/rest/MyClient.class
+com/mypoc/rest/SmallCaseUriServerRequestWrapper.class
+com/mypoc/rest/MyRestService.class
+com/mypoc/rest/MyConfigHandler.class
+com/mypoc/rest/ClientRepository.class
+com/mypoc/rest/CaseAgnosticRequestPredicate.class
+com/mypoc/rest/MyRestController.class
+com/mypoc/rest/MyRestController2.class
